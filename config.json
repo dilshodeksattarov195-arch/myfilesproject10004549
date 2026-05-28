@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "metricscrocess",
+        "uuid": 11904733,
+        "checksum": "kdmzml"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
